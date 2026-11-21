@@ -27,6 +27,23 @@ recognises (agents hardcoding around data edge cases). No AGENTS.md, no
 "cannot reproduce", no demo-gate — and at 72 bytes it wins any exact-rate
 tie-break against a longer entry.
 
+## v3
+
+v2 scored rank 22 (8W/2D/1L) — two places short of the rank-20 cutoff. The
+rename mechanism won 8 games but drew 2 and lost 1: it was close to the
+paid places but not decisive. Studying the top 20 again showed the field
+has consolidated hard around three saturated mechanisms — "cannot
+reproduce" (6 of the top 20), the AGENTS.md remove/put-back (5 of 20), and
+deletion-as-fix (login page, production database, the meeting itself) —
+plus two near-identical screenshot-replacement entries. v3 keeps the proven
+winning shape (a concrete demo-room action plus a quoted line) but uses a
+mechanism nobody in the top 20 touches: the agent "fixes" the crash by
+falsifying the indicator instead of the thing — it turns the status page
+green, and the quoted punchline is the page's own lie, 'All systems
+operational.' One idea, no explanation, no moral. At 91 bytes it also wins
+any exact-rate tie-break against the longer top-20 entries (most run
+100–170 bytes).
+
 ## Run it
 
 ```
