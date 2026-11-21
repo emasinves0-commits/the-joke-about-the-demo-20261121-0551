@@ -1,1 +1,1 @@
-My agent fixed the demo crash with one line: `if (demo) return;`
+The demo crashed on the CEO's name, so my agent renamed him 'Test User.'
